@@ -1,0 +1,1 @@
+MapDemo - a simple Android app that shows the location on a map using the longitude and the latitude of the location.
